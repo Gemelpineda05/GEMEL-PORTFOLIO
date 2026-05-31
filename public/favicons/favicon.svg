@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="G.Pineda favicon">
+  <defs>
+    <linearGradient id="bg" x1="96" y1="56" x2="416" y2="456" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff7a18" />
+      <stop offset="1" stop-color="#ffd166" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="none" stroke="#111111" stroke-opacity=".18" stroke-width="28" />
+  <text
+    x="256"
+    y="286"
+    fill="#111111"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="330"
+    font-weight="900"
+    letter-spacing="0"
+    text-anchor="middle"
+  >G</text>
+</svg>

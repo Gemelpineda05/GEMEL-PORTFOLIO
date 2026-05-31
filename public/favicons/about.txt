@@ -1,0 +1,3 @@
+This favicon uses a custom high-contrast G mark for the G.Pineda portfolio.
+
+The source artwork is public/favicons/favicon.svg.
